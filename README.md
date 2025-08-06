@@ -166,4 +166,4 @@ Consulta el archivo `LICENSE` para más detalles.
 
 ---
 
-**Desarrollado como parte del curso de consumo de APIs con JavaScript (`fetch`) de [Código Facilito](https://codigofacilito.com).**
+
